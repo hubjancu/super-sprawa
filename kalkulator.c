@@ -7,6 +7,8 @@ int  main()
 float a,b;
 char znak;
 
+printf("SUPER PROGRAM WLASNIE DLA CIEBIE ! NIE ZMARNUJ TEJ SZANSY ");
+
 printf("Wprowadz rownanie np a + b ");
 scanf("%f %c %f", &a, &znak, &b);
 
